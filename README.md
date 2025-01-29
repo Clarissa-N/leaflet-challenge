@@ -7,4 +7,4 @@
       + **style.css:** this is the stylesheet 
     + **js:**
       + **logic.js:** file with the JavaScript to creat the map of all earthequakes in the past 7 days
-    + **index.html:** webpage that runs the map from the logic.js file
++ **index.html:** webpage that runs the map from the logic.js file
